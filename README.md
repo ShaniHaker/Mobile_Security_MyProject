@@ -1,6 +1,7 @@
 
 **Project Overview**
 
+
 This Android application is designed to monitor permission usage in real time.
 
 It runs a background service that actively tracks which permissions are being accessed by apps the user opens — starting from the moment the service is launched. 
@@ -34,7 +35,8 @@ Additionally, a table displays the five most recent permission access events, so
 This helps users quickly identify which apps recently accessed sensitive permissions.
 
 
-** Logs Fragment**
+**Logs Fragment**
+
 
 The Logs fragment displays a complete list of all permission access events that have occurred since the monitoring service was activated.
 
@@ -50,6 +52,7 @@ Permission Type – the specific permission used (e.g., Location, Camera, Microp
 
 
 **Risks Fragment**
+
 
 The Risk fragment presents a bar chart that visualizes the number of sensitive permissions accessed by each app. 
 
