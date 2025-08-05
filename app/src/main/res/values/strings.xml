@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mobile_Security_MyProject</string>
+    <string name="title_home">Logs</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Risks</string>
+</resources>
